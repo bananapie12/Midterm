@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chaibucks - Premium Chai & Snacks</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="header-content">
+            <img src="images/logo.jpg" alt="Chaibucks Logo" class="logo">
+            <h1>Welcome to Chaibucks</h1>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul class="nav-links">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <h2>Your Go-To Destination for Premium Chai and Snacks</h2>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container">
+        <!-- Products Section -->
+        <section id="products">
+            <h2>Our Popular Products</h2>
+            <div class="product-grid">
+                <div class="product">
+                    <img src="images/classic-chai.jpg" alt="Classic Chai">
+                    <h3>Classic Chai</h3>
+                    <p>A traditional spiced chai blend to warm your soul.</p>
+                </div>
+                <div class="product">
+                    <img src="images/green-tea.jpg" alt="Green Tea">
+                    <h3>Green Tea</h3>
+                    <p>Light, refreshing, and full of antioxidants.</p>
+                </div>
+                <div class="product">
+                    <img src="images/masala-chai.jpg" alt="Masala Chai">
+                    <h3>Masala Chai</h3>
+                    <p>A bold and flavorful mix of Indian spices.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Us -->
+        <section id="about">
+            <h2>About Us</h2>
+            <p>At Chaibucks, we pride ourselves on delivering the best chai and snacks to our customers. We blend tradition with quality to bring you a truly exceptional experience.</p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Chaibucks. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
